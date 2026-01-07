@@ -1,0 +1,1 @@
+#Write a programme to find sum of the digits of a number
